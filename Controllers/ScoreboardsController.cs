@@ -93,10 +93,11 @@ namespace ScoreboardsAPI.Controllers
         [Route("rank")]
         public string GetByRank([FromQuery] SlashCommandPayload payload)
         {
-            string rank = payload.text;
+            //string rank = payload.text;
 
-            var user = _context.ScoreboardsItems.Where(u => u.Rank == rank);
-            return user.First().Name;
+            //var user = _context.ScoreboardsItems.Where(u => u.Rank == rank);
+            //return user.First().Name
+            return "Working";
         }
     }
 }
