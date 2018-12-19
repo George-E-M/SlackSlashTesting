@@ -91,6 +91,7 @@ namespace ScoreboardsAPI.Controllers
         // GET: api/Scoreboards/rank
         [HttpGet]
         [Route("rank")]
+        [Produces("application/json")]
         public string GetByRank([FromQuery] SlashCommandPayload payload)
         {
             //string rank = payload.text;
