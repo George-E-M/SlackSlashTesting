@@ -87,6 +87,16 @@ namespace ScoreboardsAPI.Controllers
 
             return scoreboardsItem;
         }
-    }
 
+        // GET: api/Scoreboards/rank
+        [HttpGet]
+        [Route("rank")]
+        public string GetByRank([FromQuery] SlashCommandPayload payload)
+        {
+            string rank = payload.text;
+
+            var user = _context.ScoreboardsItems.Where(u => u.Rank == rank);
+            return user.First().Name;
+        }
+    }
 }
