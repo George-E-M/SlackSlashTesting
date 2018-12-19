@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\ScoreboardsAPI\ScoreboardsAPI\bin\Debug\netcoreapp2.1\ScoreboardsAPI.deps.json
+C:\Users\Admin\source\repos\ScoreboardsAPI\ScoreboardsAPI\bin\Debug\netcoreapp2.1\ScoreboardsAPI.runtimeconfig.json
+C:\Users\Admin\source\repos\ScoreboardsAPI\ScoreboardsAPI\bin\Debug\netcoreapp2.1\ScoreboardsAPI.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ScoreboardsAPI\ScoreboardsAPI\bin\Debug\netcoreapp2.1\ScoreboardsAPI.dll
+C:\Users\Admin\source\repos\ScoreboardsAPI\ScoreboardsAPI\bin\Debug\netcoreapp2.1\ScoreboardsAPI.pdb
+C:\Users\Admin\source\repos\ScoreboardsAPI\ScoreboardsAPI\obj\Debug\netcoreapp2.1\ScoreboardsAPI.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ScoreboardsAPI\ScoreboardsAPI\obj\Debug\netcoreapp2.1\ScoreboardsAPI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ScoreboardsAPI\ScoreboardsAPI\obj\Debug\netcoreapp2.1\ScoreboardsAPI.RazorAssemblyInfo.cache
+C:\Users\Admin\source\repos\ScoreboardsAPI\ScoreboardsAPI\obj\Debug\netcoreapp2.1\ScoreboardsAPI.RazorAssemblyInfo.cs
+C:\Users\Admin\source\repos\ScoreboardsAPI\ScoreboardsAPI\obj\Debug\netcoreapp2.1\ScoreboardsAPI.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ScoreboardsAPI\ScoreboardsAPI\obj\Debug\netcoreapp2.1\ScoreboardsAPI.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ScoreboardsAPI\ScoreboardsAPI\obj\Debug\netcoreapp2.1\ScoreboardsAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\source\repos\ScoreboardsAPI\ScoreboardsAPI\obj\Debug\netcoreapp2.1\ScoreboardsAPI.dll
+C:\Users\Admin\source\repos\ScoreboardsAPI\ScoreboardsAPI\obj\Debug\netcoreapp2.1\ScoreboardsAPI.pdb
